@@ -1,6 +1,6 @@
 const artworks = [
     { id: 1, title: "Celestial Void", artist: "Julian Thorne", cat: "Abstract", img: "https://images.unsplash.com/photo-1541701494587-cb58502866ab?q=80&w=1200&auto=format&fit=crop" },
-    { id: 2, title: "Neural Network", artist: "Zoe Bloom", cat: "Abstract", img: "https://tse3.mm.bing.net/th/id/OIP.ZMGUh6biUfMOgzHxOeLeaAHaE7?rs=1&pid=ImgDetMain&o=7&rm=3" },
+    { id: 2, title: "Neural Bloom", artist: "Zoe Bloom", cat: "Abstract", img: "https://tse3.mm.bing.net/th/id/OIP.ZMGUh6biUfMOgzHxOeLeaAHaE7?rs=1&pid=ImgDetMain&o=7&rm=3" },
     { id: 3, title: "Echoes of Solitude", artist: "Leo Kael", cat: "Abstract", img: "https://tse4.mm.bing.net/th/id/OIP.jMK1qR86fSxrNlPAdns3twHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" },
     { id: 4, title: "Prismatic Flow", artist: "Iris West", cat: "Abstract", img: "https://images.unsplash.com/photo-1550684848-fac1c5b4e853?q=80&w=1200&auto=format&fit=crop" },
     { id: 5, title: "Deep Sea Mind", artist: "Odin Vance", cat: "Abstract", img: "https://th.bing.com/th/id/OIP.I5TEmFVanHAAMgenBxKeSgHaHa?w=197&h=197&c=7&r=0&o=7&pid=1.7&rm=3" },
