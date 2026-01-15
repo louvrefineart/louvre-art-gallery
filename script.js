@@ -35,7 +35,7 @@ const artworks = [
     { name: "Samuel Lee", role: "Earth Scapes", bio: "Nature photography.", img: "https://images.unsplash.com/photo-1547425260-76bcadfb4f2c?q=80&w=500&auto=format&fit=crop" }
 ];
 
-
+ 
 const cursor = document.getElementById("cursor");
     const follower = document.getElementById("cursor-follower");
     
@@ -159,7 +159,7 @@ function initSlider() {
     slider.innerHTML = featured.map((art, i) => `
         <div class="slide ${i === 0 ? 'active' : ''}" style="background-image: url(${art.img})">
             <div class="slide-overlay"></div>
-            <div class="slide-content">
+            <div class="slide-content" style="padding-top:50px;">
                 <h1>${art.title}</h1>
                 <p>Curated Selection from ${art.artist}</p>
             </div>
